@@ -115,6 +115,3 @@ Upload PDFs, DOCX, or TXT files via **RAG Document Uploader**. Then use **RAG Q&
 
 ---
 
-## 📄 License
-
-MIT License © 2025 DigiDARA Technologies Private Limited
